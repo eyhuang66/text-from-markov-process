@@ -1,0 +1,14 @@
+﻿  generateParagraph.cpp
+c:\users\elizabethhuang\desktop\codingpractice\generateparagraph\generateparagraph.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\elizabethhuang\desktop\codingpractice\generateparagraph\generateparagraph.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\elizabethhuang\desktop\codingpractice\generateparagraph\generateparagraph.cpp(143): warning C4018: '<': signed/unsigned mismatch
+c:\users\elizabethhuang\desktop\codingpractice\generateparagraph\generateparagraph.cpp(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\elizabethhuang\desktop\codingpractice\generateparagraph\generateparagraph.cpp(146): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\elizabethhuang\desktop\codingpractice\generateparagraph\generateparagraph.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\elizabethhuang\desktop\codingpractice\generateparagraph\generateparagraph.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\elizabethhuang\desktop\codingpractice\generateparagraph\generateparagraph.cpp(238): warning C4018: '<': signed/unsigned mismatch
+  generateParagraph.vcxproj -> C:\Users\ElizabethHuang\Desktop\codingPractice\generateParagraph\Debug\generateParagraph.exe
